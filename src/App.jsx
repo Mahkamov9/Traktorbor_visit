@@ -1,4 +1,4 @@
-function App() {
+efweg function App() {
   return (
     <>
       Traktorbor.uz
