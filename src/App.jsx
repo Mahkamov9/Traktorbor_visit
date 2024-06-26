@@ -1,4 +1,5 @@
-werefweg function App() {
+we
+  werefweg function App() {
   return (
     <>
       Traktorbor.uz
