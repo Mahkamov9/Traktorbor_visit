@@ -1,5 +1,4 @@
-hjsdfsdsdvsdvsdvsdvsdvewfwefwe
-  werefweg function App() {
+function App() {
   return (
     <>
       Traktorbor.uz
